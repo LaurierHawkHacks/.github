@@ -9,7 +9,7 @@
     |__| |__||__| |__||__| |__||___| |_|  |__| |__||__| |__||_______||___| |_||_______|  |_______||_______||_______|    |___| 
     -->
     
-<a href="https://fontmeme.com/graffiti-creator/"><img src="https://fontmeme.com/permalink/230914/53ec30feeeb2ac32b55ef78d67a815e5.png" alt="graffiti-creator" border="0"></a> 
+<img src="https://fontmeme.com/permalink/230914/53ec30feeeb2ac32b55ef78d67a815e5.png" alt="graffiti-creator" border="0">
 <br>
 
 ## The official repo for [HawkHacks](https://hawkhacks.ca/) :bird:
