@@ -17,5 +17,5 @@
 ### Interested in joining the team? 📑
 **Sign up** [here](https://hiring.hawkhacks.ca/) **!**
 
-<img src="https://github.com/LaurierHawkHacks/Landing/blob/main/src/assets/illustration_4.svg"/>
+<img src="https://github.com/LaurierHawkHacks/Landing/blob/2022/src/assets/illustration_4.svg"/>
 </div>
