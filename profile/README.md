@@ -14,8 +14,5 @@
 
 ## The official repo for [HawkHacks](https://hawkhacks.ca/) :bird:
 
-### Interested in joining the team? 📑
-**Sign up** [here](https://hiring.hawkhacks.ca/) **!**
-
 <img src="https://github.com/LaurierHawkHacks/Landing/blob/2022/src/assets/illustration_4.svg"/>
 </div>
